@@ -1,4 +1,4 @@
-# Project Name
+# Arrow functions and Destructuring
 
 ## Installation
 
@@ -57,3 +57,11 @@ Once this is done, create a **Pull Request** from the `solution` branch to the `
 via the GitHub interface.
 
 ## Assignments
+
+1 - 7 (Arrow functions)
+
+8 - 12 (Destructuring arrays)
+
+13 - 16 (Destructuring arrays using rest pattern)
+
+17 - 20 (Destructuring objects)
